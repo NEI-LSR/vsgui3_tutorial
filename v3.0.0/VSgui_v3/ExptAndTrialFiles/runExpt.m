@@ -155,7 +155,7 @@ end
 
 ex.Header.onlineFileName = fname;
 ex.Header.onlineDirName = dirName;
-
+% hypothetical bug fix
 fix_duration = ex.fix.duration;
 stimDuration = ex.fix.stimDuration;
 
